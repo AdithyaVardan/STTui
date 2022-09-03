@@ -1,5 +1,5 @@
 
-# STTui- SPEECH TO TEXT USER INTERFACE
+# STTui- SPEECH TO TEXT based USER INTERFACE
 
 This program is made to understand about the posiibilities of the 
 user interface with a computer using speech 
