@@ -1,4 +1,4 @@
-#apa.py
+#main program
 import speech_recognition as sr
 import os
 import re
