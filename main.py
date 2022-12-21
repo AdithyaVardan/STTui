@@ -86,7 +86,6 @@ def assistant(command):
             domain = reg_ex.group(1)
             url = 'https://www.' + domain+'.com'
             webbrowser.open(url)
-            
             t("opening web browser")
         else:
             pass
