@@ -36,7 +36,7 @@ Ensure you have Python installed on your system. This project uses Python 3.6+.
 ### **Step 1: Clone the Repository**
 ```bash
 git clone https://github.com/AdithyaVardan/STTui.git
-cd voice-assistant
+cd STTui
 ```
 
 ### **Step 2: Install the Required Libraries**
