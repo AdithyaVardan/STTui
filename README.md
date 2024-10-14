@@ -92,6 +92,13 @@ If you say "exit," the assistant will ask if you'd like to save your session log
 
 ---
 
+
+https://github.com/user-attachments/assets/05d695a6-38e6-437b-ad7c-ad1258669e5b
+
+
+---
+
+
 ## **Requirements**
 
 - Python 3.6+
@@ -128,5 +135,9 @@ Pull requests are welcome! If you have any suggestions for improvements or find 
 
 ---
 
+
+
+
+https://github.com/user-attachments/assets/05d695a6-38e6-437b-ad7c-ad1258669e5b
 
 
