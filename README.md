@@ -35,17 +35,13 @@ Ensure you have Python installed on your system. This project uses Python 3.6+.
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your-username/voice-assistant.git
+git clone https://github.com/AdithyaVardan/STTui.git
 cd voice-assistant
 ```
 
 ### **Step 2: Install the Required Libraries**
-Install the dependencies listed in the `requirements.txt` file:
-```bash
-pip install -r requirements.txt
-```
 
-Or manually install the required packages:
+manually install the required packages:
 ```bash
 pip install speechrecognition pyttsx3 speedtest-cli requests beautifulsoup4
 ```
